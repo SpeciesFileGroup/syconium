@@ -5,7 +5,7 @@
 ##
 # Syconium::RequestCursor
 #
-## Class to perform HTTP requests to the Catalog of Life API
+## Class to perform HTTP requests to the OpenAlex API
 module Syconium
   class RequestCursor
     attr_accessor :endpoint
